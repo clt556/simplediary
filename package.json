@@ -22,7 +22,6 @@
     "deploy": "gh-pages -d build"
   },
   "homepage": "https://clt556.github.io/react-basic/",
-
   "eslintConfig": {
     "extends": [
       "react-app",
