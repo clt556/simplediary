@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-basic/static/css/main.3322ada4.css",
-    "main.js": "/react-basic/static/js/main.7065c0f5.js",
-    "index.html": "/react-basic/index.html",
-    "main.3322ada4.css.map": "/react-basic/static/css/main.3322ada4.css.map",
-    "main.7065c0f5.js.map": "/react-basic/static/js/main.7065c0f5.js.map"
+    "main.css": "/simplediary/static/css/main.3322ada4.css",
+    "main.js": "/simplediary/static/js/main.7065c0f5.js",
+    "index.html": "/simplediary/index.html",
+    "main.3322ada4.css.map": "/simplediary/static/css/main.3322ada4.css.map",
+    "main.7065c0f5.js.map": "/simplediary/static/js/main.7065c0f5.js.map"
   },
   "entrypoints": [
     "static/css/main.3322ada4.css",
