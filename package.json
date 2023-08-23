@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://clt556.github.io/https---github.com-clt556-react-basic/",
+  "homepage": "https://clt556.github.io/react-basic/",
 
   "eslintConfig": {
     "extends": [
